@@ -22,7 +22,7 @@ Download up-to-date database files:
 ## Citation
 **Tardi-COI** database should be cited using the following:  
   
-**Paper describing the database:**  
+**Paper describing the database (and tardigrade metabarcoding protocol):**  
 Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. (2025) COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades. Xintzool? doi:  
 
   
