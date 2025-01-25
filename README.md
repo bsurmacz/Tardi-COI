@@ -1,5 +1,8 @@
 # Tardi-COI
 Reference database of curated COI sequences of tardigrades.    
+ ![obraz](https://github.com/user-attachments/assets/42180122-2bb5-4ec0-a5ce-a899d9a311a3)
+
+
 Version 1 is the supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025) and is subsequently updated.  
 
 
@@ -17,11 +20,11 @@ Download up-to-date database files:
 ## Citation
 **Tardi-COI** database should be cited using the following:  
   
-**Paper describing the database:  **
+**Paper describing the database:**  
 Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. (2025) COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades. Xintzool? doi:  
 
   
-**Figshare dataset:  **
+**Figshare dataset:**  
 doi://xzxc/13213.42
 
 ## Version history
