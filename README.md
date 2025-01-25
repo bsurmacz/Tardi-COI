@@ -40,7 +40,7 @@ xx sequences
 tardi-COI-v2.fasta  
 tardi-COI-v2.xlsx  
 
-Total number of sequences with curated taxonomy: **3238**. 
+Total number of sequences with curated taxonomy: **3238**.  
 Original supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025).  
 Sequences sourced from public databases (NCBI Genbank and BOLD) and novel references provided in the study. 
 
