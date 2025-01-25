@@ -12,8 +12,8 @@ The database includes the two files:
 * xlsx file with taxonomy annotation, sequences, and additional information, which can be easily converted to any format commonly used in metabarcoding pipelines.  
 
 Download up-to-date database files:  
-* tardi-COI-v2.fasta  
-* tardi-COI-v2.xlsx  
+* tardi-COI-v02.fasta  
+* tardi-COI-v02.xlsx  
 
 
 
@@ -35,15 +35,15 @@ version 2
 Total number of sequences with curated taxonomy: **32XX**. 
 
 
-tardi-COI-v2.fasta  
-tardi-COI-v2.xlsx  
+tardi-COI-v02.fasta  
+tardi-COI-v02.xlsx  
 
 version 1
 ---
 2024-12-02  
 xx sequences
-tardi-COI-v2.fasta  
-tardi-COI-v2.xlsx  
+tardi-COI-v1.fasta  
+tardi-COI-v1.xlsx  
 
 Total number of sequences with curated taxonomy: **3238**.  
 Original supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025).  
