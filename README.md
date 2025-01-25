@@ -3,7 +3,7 @@ Reference database of curated COI sequences of tardigrades.
  ![obraz](https://github.com/user-attachments/assets/42180122-2bb5-4ec0-a5ce-a899d9a311a3)
 
 
-Version 1 is the supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025) and is subsequently updated.  
+Version 1 is the supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025) and is subsequently updated to include new barcodes and taxonomic changes.  
 
 
 ## Download
