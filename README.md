@@ -3,12 +3,14 @@ Reference database of curated COI sequences of tardigrades.
 Version 1 is the supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025) and is subsequently updated.  
 
 
-## Database files
-
+## Download
+The database includes the two files:
+* fasta file with the sequences and taxonomic classification in sequence headers,
+* xlsx file with taxonomy annotation, sequences, and additional information, which can be easily converted to any format commonly used in metabarcoding pipelines.  
 
 Download up-to-date database files:  
-tardi-COI-v2.fasta  
-tardi-COI-v2.xlsx  
+* tardi-COI-v2.fasta  
+* tardi-COI-v2.xlsx  
 
 
 
