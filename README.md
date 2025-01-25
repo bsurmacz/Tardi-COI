@@ -5,7 +5,7 @@ The curated database is a ready-to-use tool allowing to investigate the diversit
  ![obraz](https://github.com/user-attachments/assets/42180122-2bb5-4ec0-a5ce-a899d9a311a3)
 
 
-Version 1 is the supplementary data for the publication <LINK> and is subsequently updated to include new barcodes and taxonomic changes.  
+Version 1 is the supplementary data for the publication \<LINK\> and is subsequently updated to include new barcodes and taxonomic changes.  
 
 
 ## Download
