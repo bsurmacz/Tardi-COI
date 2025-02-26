@@ -3,7 +3,8 @@
 The repository contains a reference database of curated COI sequences of tardigrades.  
 The curated database is a ready-to-use tool allowing to investigate the diversity of the enigmatic phylum Tardigrada in metabarcoding studies.
 
-Version 1 is the supplementary data for the publication \<LINK\> and is subsequently updated to include new barcodes and taxonomic changes.   
+Version 1 is the supplementary data for the publication [Surmacz et al. 2025](https://www.google.com) and is subsequently updated to include new barcodes and taxonomic changes.   
+
 
   
 The database includes the two files:
