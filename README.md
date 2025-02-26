@@ -38,16 +38,16 @@ version 2
 2024-11-12  
 Total number of sequences with curated taxonomy: **3372**. 
 
-[tardi-COI-v02.xlsx](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
-[tardi-COI-v02.fasta](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
+[Tardi-COI-v02.xlsx](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
+[Tardi-COI-v02.fasta](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
  
 
 version 1
 ---
 2024-07-29  
 Total number of sequences with curated taxonomy: **3238**.  
-[tardi-COI-v01.xlsx](DatabaseFiles/Tardi-COI-01/Tardi-COI_01.xlsx?raw=true)  
-[tardi-COI-v01.fasta](DatabaseFiles/Tardi-COI-01/Tardi-COI_01.fasta?raw=true)  
+[Tardi-COI-v01.xlsx](DatabaseFiles/Tardi-COI-01/Tardi-COI_01.xlsx?raw=true)  
+[Tardi-COI-v01.fasta](DatabaseFiles/Tardi-COI-01/Tardi-COI_01.fasta?raw=true)  
 
 
 The version 1 is included in the original supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025).  
