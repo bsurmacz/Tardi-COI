@@ -29,8 +29,7 @@ Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. 2
 
   
 **Figshare dataset:**  
-doi://xzxc/13213.42
- 
+[doi://xzxc/13213.42](doi://xzxc/13213.42)
 ## Version history
 
 version 2
@@ -51,7 +50,7 @@ Total number of sequences with curated taxonomy: **3238**.
 
 
 The version 1 is included in the original supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025).  
-Sequences sourced from public databases (NCBI Genbank and BOLD) and novel references provided in the study. Sequence processing summary:  
+Sequences sourced from public databases (NCBI Genbank and BOLD) and novel references provided in the study. Sequence data processing summary:  
 
 ![obraz](https://github.com/user-attachments/assets/c9f16ff4-d056-441b-92b9-713d76870089)
 
