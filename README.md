@@ -29,8 +29,6 @@ Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. 2
   
 **Figshare dataset:**  
 doi://xzxc/13213.42
-
- ![obraz](https://github.com/user-attachments/assets/42180122-2bb5-4ec0-a5ce-a899d9a311a3)
  
 ## Version history
 
