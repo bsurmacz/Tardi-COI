@@ -3,7 +3,7 @@
 The repository contains a reference database of curated COI sequences of tardigrades.  
 The curated database is a ready-to-use tool allowing to investigate the diversity of the phylum Tardigrada in metabarcoding studies.
 
-Version 1 is the supplementary data for the publication [Surmacz et al. 2025](https://www.google.com) and is subsequently updated to include new barcodes and taxonomic changes.   
+Version 1 is the supplementary data for the publication [Surmacz et al. 2025]([https://doi.org/10.1111/1749-4877.12972]) and is subsequently updated to include new barcodes and taxonomic changes.   
 
 
   
@@ -25,7 +25,7 @@ Download up-to-date database files (version 02):
 **Tardi-COI** database should be cited using the following:  
   
 **Paper describing the database (and tardigrade metabarcoding protocol):**  
-Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. 2025. COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades. Integrative Zoology doi:  
+Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. 2025. COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades. Integrative Zoology https://doi.org/10.1111/1749-4877.12972  
 
   
 **Figshare dataset:**  
