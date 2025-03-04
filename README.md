@@ -34,7 +34,7 @@ Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. 2
 
 version 2
 ----
-2024-11-12  
+Tardigrade sequences and taxonomy status for **2024-11-12**.  
 Total number of sequences with curated taxonomy: **3372**. 
 
 [Tardi-COI-v02.xlsx](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
@@ -43,7 +43,7 @@ Total number of sequences with curated taxonomy: **3372**.
 
 version 1
 ---
-2024-07-29  
+Tardigrade sequences and taxonomy status for **2024-07-29**.  
 Total number of sequences with curated taxonomy: **3238**.  
 [Tardi-COI-v01.xlsx](DatabaseFiles/Tardi-COI-01/Tardi-COI_01.xlsx?raw=true)  
 [Tardi-COI-v01.fasta](DatabaseFiles/Tardi-COI-01/Tardi-COI_01.fasta?raw=true)  
