@@ -1,5 +1,5 @@
 # Tardi-COI
-### COI reference database for tardigrade metabarcoding
+### COI reference database for tardigrade (meta)barcoding
 The repository contains a reference database of curated COI sequences of tardigrades.  
 The curated database is a ready-to-use tool allowing to investigate the diversity of the phylum Tardigrada in metabarcoding studies.
 
