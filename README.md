@@ -17,14 +17,14 @@ $`\textcolor{green}{\text{last update: 2025-02-25 (version 02)}}`$
 
 
 Download up-to-date database files (version 02):  
-[XLSX file](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
-[FASTA file](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
+* [XLSX file](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
+* [FASTA file](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
 
 
 ## Citation
 **Tardi-COI** database should be cited using the following:  
   
-**Paper describing the database (and tardigrade metabarcoding protocol):**  
+**Paper describing the database (and tardigrade COI metabarcoding protocol):**  
 Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. 2025. COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades. Integrative Zoology https://doi.org/10.1111/1749-4877.12972  
 
   
