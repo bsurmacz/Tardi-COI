@@ -32,7 +32,7 @@ Tardi-COI database with citable links and version history is also available at t
 [doi://xzxc/13213.42](doi://xzxc/13213.42)
 
 ## Authors
-**Bartłomiej Surmacz**, **Daniel Stec**, **Matteo Vecchi**  
+**Bartłomiej Surmacz**, **Matteo Vecchi**, **Daniel Stec**  
 If you have any questions or suggestions about the database updates, please [contact the database curators](mailto:b.surmacz@isez.pan.krakow.pl?subject=[Tardi-COI]).
 
   
