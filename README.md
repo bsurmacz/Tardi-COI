@@ -1,15 +1,14 @@
 # Tardi-COI
 ### COI reference database for tardigrade (meta)barcoding
-The repository contains a reference database of curated COI sequences of tardigrades.  
-The curated database is a ready-to-use tool allowing to investigate the diversity of the phylum Tardigrada in metabarcoding studies.
+The repository contains a reference database of curated COI sequences of tardigrades. The curated database is a ready-to-use tool allowing to investigate the diversity of the phylum Tardigrada in metabarcoding studies.
 
 Version 01 is the supplementary data for the publication [Surmacz et al. 2025, Integrative Zoology](https://doi.org/10.1111/1749-4877.12972) and is subsequently updated to include new barcodes and taxonomic changes.   
 
 
   
 The database includes the two files:
-* xlsx file with taxonomy annotation, sequences, and additional information, which can be easily converted to any format commonly used in metabarcoding pipelines
-* fasta file with the sequences and taxonomic classification in sequence headers
+* *.XLSX* file with taxonomy annotation, sequences, and additional information, which can be easily converted to any format commonly used in metabarcoding pipelines;
+* *.FASTA* file with the sequences and taxonomic classification in sequence headers.
 
 ## Download
 $`\textcolor{green}{\text{last update: 2025-02-25 (version 02)}}`$  
