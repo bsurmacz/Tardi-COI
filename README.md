@@ -16,8 +16,8 @@ $`\textcolor{green}{\text{last update: 2025-02-25 (version 02)}}`$
 
 
 Download up-to-date database files (version 02):  
-* [XLSX file](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
-* [FASTA file](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
+* [Tardi-COI_02.xlsx](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
+* [Tardi-COI_02.fasta](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
 
 
 ## Citation
