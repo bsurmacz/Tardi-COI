@@ -3,7 +3,7 @@
 The repository contains a reference database of curated COI sequences of tardigrades.  
 The curated database is a ready-to-use tool allowing to investigate the diversity of the phylum Tardigrada in metabarcoding studies.
 
-Version 1 is the supplementary data for the publication [Surmacz et al. 2025, Integrative Zoology](https://doi.org/10.1111/1749-4877.12972) and is subsequently updated to include new barcodes and taxonomic changes.   
+Version 01 is the supplementary data for the publication [Surmacz et al. 2025, Integrative Zoology](https://doi.org/10.1111/1749-4877.12972) and is subsequently updated to include new barcodes and taxonomic changes.   
 
 
   
@@ -39,7 +39,7 @@ If you have any questions or suggestions about the database updates, please [con
   
 ## Version history
 
-version 2
+version 02
 ----
 Tardigrade sequences and taxonomy status for **2024-11-12**.  
 Total number of sequences with curated taxonomy: **3372**. 
@@ -48,7 +48,7 @@ Total number of sequences with curated taxonomy: **3372**.
 [Tardi-COI-v02.fasta](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
  
 
-version 1
+version 01
 ---
 Tardigrade sequences and taxonomy status for **2024-07-29**.  
 Total number of sequences with curated taxonomy: **3238**.  
@@ -56,7 +56,7 @@ Total number of sequences with curated taxonomy: **3238**.
 [Tardi-COI-v01.fasta](DatabaseFiles/Tardi-COI-01/Tardi-COI_01.fasta?raw=true)  
 
 
-The version 1 is included in the original supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025).  
+The version 01 is included in the original supplementary data for the publication "COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades" (Surmacz et al. 2025).  
 Sequences sourced from public databases (NCBI Genbank and BOLD) and novel references provided in the study. Sequence data processing summary:  
 
 ![obraz](https://github.com/user-attachments/assets/c9f16ff4-d056-441b-92b9-713d76870089)
