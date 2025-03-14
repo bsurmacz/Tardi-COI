@@ -34,7 +34,7 @@ If you have any questions or suggestions about the database updates, please [con
   
 ## Figshare dataset
 Tardi-COI database with citable links and version history is also available at the Figshare repository:  
-[doi://xzxc/13213.42](doi://xzxc/13213.42)
+[https://doi.org/10.6084/m9.figshare.27048157](https://doi.org/10.6084/m9.figshare.27048157)
   
   
 ## Version history
