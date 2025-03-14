@@ -11,12 +11,12 @@ The database includes the two files:
 * *.FASTA* file with the sequences and taxonomic classification in sequence headers.
 
 ## Download
-$`\textcolor{green}{\text{Download up-to-date database files (version 02). Last update: 2025-02-25 }}`$  
 
-
-#### XLSX file with sequence data, taxonomy and additional information:  
+**Download up-to-date database files (version 02):**  
+$`\textcolor{green}{\text{tardigrade sequences and taxonomy status for 2024-11-12  }}`$  
+##### XLSX file with sequence data, taxonomy and additional information  
 * [Tardi-COI_02.xlsx](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
-#### FASTA file with taxonomy in sequence headers:  
+##### FASTA file with taxonomy in sequence headers  
 * [Tardi-COI_02.fasta](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
 
 
