@@ -12,12 +12,12 @@ The database includes the two files:
 
 ## Download
 
-**Download up-to-date database files (version 02):**  
-$`\textcolor{green}{\text{tardigrade sequences and taxonomy status for 2024-11-12  }}`$  
+**Download up-to-date database files (version 03):**  
+$`\textcolor{green}{\text{tardigrade sequences and taxonomy status for 2026-01-01  }}`$  
 ##### XLSX file with sequence data, taxonomy and additional information  
-* [Tardi-COI_02.xlsx](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.xlsx?raw=true)  
+* [Tardi-COI_03.xlsx](DatabaseFiles/Tardi-COI-03/Tardi-COI_03.xlsx?raw=true)  
 ##### FASTA file with taxonomy in sequence headers  
-* [Tardi-COI_02.fasta](DatabaseFiles/Tardi-COI-02/Tardi-COI_02.fasta?raw=true)  
+* [Tardi-COI_03.fasta](DatabaseFiles/Tardi-COI-03/Tardi-COI_03.fasta?raw=true)  
 
 
 ## Citation
@@ -38,6 +38,15 @@ Tardi-COI database with citable links and version history is also available at t
   
   
 ## Version history
+
+version 03
+----
+Tardigrade sequences and taxonomy status for **2026-01-01**.  
+Total number of sequences with curated taxonomy: **3579**. 
+
+[Tardi-COI-v03.xlsx](DatabaseFiles/Tardi-COI-03/Tardi-COI_03.xlsx?raw=true)  
+[Tardi-COI-v03.fasta](DatabaseFiles/Tardi-COI-03/Tardi-COI_03.fasta?raw=true)  
+ 
 
 version 02
 ----
