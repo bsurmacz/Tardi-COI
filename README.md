@@ -13,7 +13,7 @@ The database includes the two files:
 ## Download
 
 **Download up-to-date database files (version 04):**  
-$`\textcolor{green}{\text{tardigrade sequences and taxonomy status for 2026-01-13  }}`$  
+$`\textcolor{green}{\text{tardigrade sequences and taxonomy status for 2026-11-13  }}`$  
 ##### XLSX file with sequence data, taxonomy and additional information  
 * [Tardi-COI_04.xlsx](DatabaseFiles/Tardi-COI-04/Tardi-COI_04.xlsx?raw=true)  
 ##### FASTA file with taxonomy in sequence headers  
