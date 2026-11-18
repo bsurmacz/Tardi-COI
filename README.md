@@ -24,7 +24,7 @@ $`\textcolor{green}{\text{tardigrade sequences and taxonomy status for 2026-11-1
 **Tardi-COI** database should be cited using the following:  
   
 **Paper describing the database (and tardigrade COI metabarcoding protocol):**  
-Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. 2025. COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades. Integrative Zoology 21, no. 2: 275–290 https://doi.org/10.1111/1749-4877.12972  
+Surmacz B., Vecchi M., Fontaneto D., Budzik K., Godziek J., Matsko Y., Stec D. 2026. COI metabarcoding with a curated reference database and optimized protocol provides a reliable species-level diversity assessment of tardigrades. Integrative Zoology 21, no. 2: 275–290 https://doi.org/10.1111/1749-4877.12972  
 
 
 ## Database authors
